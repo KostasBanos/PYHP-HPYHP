@@ -25,7 +25,7 @@ McMaster University, 2026 — supervised by Distinguished University Professor N
 - `utils.py`: Data structures, kernels, inference utilities, and visualization helpers
 - `data/`: Example vocab maps and news JSON (see “Data format”)
 - `results/`: Example outputs and wordclouds
-- `*.ipynb`: Preprocessing, power-law analysis, and result analysis notebooks
+- `*.ipynb`: Power-law analysis, and result analysis notebooks
 
 ### Installation
 Requirements: Python ≥ 3.8
