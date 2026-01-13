@@ -1,4 +1,4 @@
-## Pitman–Yor Hawkes Process with Sequential Monte Carlo (Master’s Thesis)
+## POWER-LAW NON-PARAMETRIC TEMPORAL MODELS FOR CONTINUOUS-TIME DOCUMENT STREAMS (Master’s Thesis)
 
 Implementation of Sequential Monte Carlo (SMC) inference for the Pitman–Yor Hawkes Process (PYHP), used to discover and track temporal clusters of news events by combining Hawkes process dynamics (time) with Dirichlet-multinomial modeling (text). This repository contains the core implementation, data preprocessing and analysis notebooks, and visualization utilities. This work was conducted at McMaster University (2026).
 
