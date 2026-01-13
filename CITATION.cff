@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Sequential Monte Carlo Inference for the Pitman–Yor Hawkes Process (Master’s Thesis Code)"
+authors:
+  - family-names: "Banos"
+    given-names: "Konstantinos"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+version: "1.0.0"
+date-released: "2026-01-08"
+repository-code: "https://github.com/USER/Pitman-Yor-Hawkes-Process"
+preferred-citation:
+  type: thesis
+  title: "POWER-LAW NON-PARAMETRIC TEMPORAL MODELS FOR CONTINUOUS-TIME DOCUMENT STREAMS"
+  authors:
+    - family-names: "Banos"
+      given-names: "Konstantinos"
+  year: 2026
+  thesis-type: "Master's thesis"
+  institution: "McMaster University"
+  url: "https://doi.org/TBD"
+  notes: "Supervised by Distinguished University Professor Narayanaswamy Balakrishnan. Replace DOI/URL with final thesis details."
+
