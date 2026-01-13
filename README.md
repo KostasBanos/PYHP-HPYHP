@@ -43,6 +43,11 @@ nltk.download('wordnet')
 nltk.download('omw-1.4')
 ```
 
+### Dataset
+- Download the news dataset from Kaggle: [All the News (Kaggle)](https://www.kaggle.com/datasets/cymerunaslam/allthenews).
+- After downloading, place the files in the `data/` folder of this repository.
+- If you download CSVs (`articles1.csv`, `articles2.csv`, `articles3.csv`), run `data_preprocessing.py` to produce `data/all_the_news_2017.json` which the scripts expect.
+
 ### Data format
 The main script expects `data/all_the_news_2017.json` to be a JSON list of items, each as:
 
